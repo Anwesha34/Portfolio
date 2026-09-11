@@ -15,4 +15,4 @@ Modern personal portfolio showcasing my work as a Full-Stack Software Engineer &
 
  🌐 Live Demo : 
 
-Email:anweshad200@gmail.com
+Email: anweshad200@gmail.com
